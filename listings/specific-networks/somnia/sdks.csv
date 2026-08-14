@@ -19,3 +19,4 @@ web3-py,,!offer:web3-py,,,,,,,,,,,,,,,
 web3auth-base,,!offer:web3auth-base,,,,,,,,,,,,,,,
 web3auth-growth,,!offer:web3auth-growth,,,,,,,,,,,,,,,
 web3auth-scale,,!offer:web3auth-scale,,,,,,,,,,,,,,,
+somnia-data-streams-sdk,Somnia,,"[""[Docs](https://docs.somnia.network/developer/data-streams)"",""[npm](https://www.npmjs.com/package/@somnia-chain/streams)"",""[GitHub](https://github.com/somnia-chain/somnia-data-streams-sdk)""]",SDK,TypeScript,,"TypeScript SDK for writing, reading, subscribing to, and managing Somnia Data Streams and events on Somnia.",Open source,Free,$0,FALSE,FALSE,"[""viem""]",0.12.2,,Somnia,MIT
